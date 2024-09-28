@@ -1,0 +1,10 @@
+br/com/acline/ApplicationMain.class
+org/tempuri/IServicoCalculadora.class
+br/com/acline/interceptor/SoapActionInterceptor.class
+org/tempuri/package-info.class
+com/microsoft/schemas/_2003/_10/serialization/ObjectFactory.class
+org/tempuri/Soma.class
+org/tempuri/ObjectFactory.class
+org/tempuri/ServicoCalculadora.class
+br/com/acline/CalculadoraHandler.class
+org/tempuri/SomaResponse.class

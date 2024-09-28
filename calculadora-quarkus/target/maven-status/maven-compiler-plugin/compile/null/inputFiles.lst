@@ -1,0 +1,10 @@
+/home/delalibera/app/calculadora-quarkus/src/main/java/br/com/acline/ApplicationMain.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/br/com/acline/CalculadoraHandler.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/br/com/acline/interceptor/SoapActionInterceptor.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/com/microsoft/schemas/_2003/_10/serialization/ObjectFactory.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/IServicoCalculadora.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/ObjectFactory.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/ServicoCalculadora.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/Soma.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/SomaResponse.java
+/home/delalibera/app/calculadora-quarkus/src/main/java/org/tempuri/package-info.java
